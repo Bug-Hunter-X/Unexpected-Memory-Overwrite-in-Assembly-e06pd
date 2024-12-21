@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming involving memory overwrites during arithmetic operations. The 'bug.asm' file contains the erroneous code, while 'bugSolution.asm' provides the corrected version with detailed explanations.
